@@ -53,7 +53,7 @@ gsap.to(".span",{
   return (
     <div className="App">
         <video  autoPlay muted loop> //autoPlay
-          <source src="/bgvideo.mp4" type="video/mp4"/>
+          <source src={`${process.env.PUBLIC_URL}/bgvideo.mp4`} type="video/mp4"/>
         
         </video>
         <img  src={img2} id="img2" className="App-logo" alt="Img Not Found"/>
