@@ -52,7 +52,7 @@ gsap.to(".span",{
 
   return (
     <div className="App">
-        <video  autoPlay muted loop controls> //autoPlay
+        <video  autoPlay muted loop> //autoPlay
           <source src="/bgvideo.mp4" type="video/mp4"/>
         
         </video>
