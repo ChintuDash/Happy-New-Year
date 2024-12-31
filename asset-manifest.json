@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Happy-New-Year/static/css/main.ea555e7c.css",
+    "main.js": "/Happy-New-Year/static/js/main.33fd6166.js",
+    "static/js/453.2285b4d4.chunk.js": "/Happy-New-Year/static/js/453.2285b4d4.chunk.js",
+    "static/media/img2.png": "/Happy-New-Year/static/media/img2.8719c8e5dc121ec5e821.png",
+    "index.html": "/Happy-New-Year/index.html",
+    "main.ea555e7c.css.map": "/Happy-New-Year/static/css/main.ea555e7c.css.map",
+    "main.33fd6166.js.map": "/Happy-New-Year/static/js/main.33fd6166.js.map",
+    "453.2285b4d4.chunk.js.map": "/Happy-New-Year/static/js/453.2285b4d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea555e7c.css",
+    "static/js/main.33fd6166.js"
+  ]
+}
